@@ -1,0 +1,50 @@
+
+Menu : 1.Create 2.Read 3. Update 4.Delete 5.List 6.Search(name) 7.Search(gender) 8. Search(building) 9. Load 10. Save 0. Quit > 1
+
+Enter a new student's info.
+Name > 김빛나리
+Gender(남 or 여) > 여
+Dormitory Building(OO관) > 은혜관
+Student Number(ex. 17, 18, 19) > 19
+Major > 전산전자
+
+Menu : 1.Create 2.Read 3. Update 4.Delete 5.List 6.Search(name) 7.Search(gender) 8. Search(building) 9. Load 10. Save 0. Quit > 3
+
+Enter a name to be updated > 김빛나리
+Enter a updated info.
+Gender(남 or 여) > 야
+Dormitory building(OO관) > 은혜
+Student Number(ex. 17, 18, 19) > 17
+Major > 전전
+
+Menu : 1.Create 2.Read 3. Update 4.Delete 5.List 6.Search(name) 7.Search(gender) 8. Search(building) 9. Load 10. Save 0. Quit > 0
+
+s21700099@peace:~/oss2020/gitt/project1-1$ ./main
+
+Menu : 1.Create 2.Read 3. Update 4.Delete 5.List 6.Search(name) 7.Search(gender) 8. Search(building) 9. Load 10. Save 0. Quit > 1
+
+Enter a new student's info.
+Name > 김빛나리
+Gender(남 or 여) > 여
+Dormitory Building(OO관) > 은혜관
+Student Number(ex. 17, 18, 19) > 19
+Major > 전산전자
+
+Menu : 1.Create 2.Read 3. Update 4.Delete 5.List 6.Search(name) 7.Search(gender) 8. Search(building) 9. Load 10. Save 0. Quit > 3
+
+Enter a name to be updated > 김빛나리
+Enter a updated info.
+Gender(남 or 여) > 여
+Dormitory building(OO관) > 은혜관
+Student Number(ex. 17, 18, 19) > 17
+Major > 전산전자
+
+Menu : 1.Create 2.Read 3. Update 4.Delete 5.List 6.Search(name) 7.Search(gender) 8. Search(building) 9. Load 10. Save 0. Quit > 2
+
+Enter a name > 김빛나리
+Student info.
+Name : 김빛나리
+Gender: 여
+Dormitory Building : 은혜관
+Student Number : 17
+Major : 전산전자
